@@ -1,3 +1,5 @@
+This project was worked on for a group project in one of my classes. The Chess executable can be found in the bin folder. There may be some incompatibility with linux machines. 
+
 Martin Bot Lite Chess Program
 ===============
 
@@ -17,7 +19,9 @@ April 29, 2024
 
 This is the final version of the chess software. For installation, type "make". For more detailed
 instructions on installation and the program, please refer to the software specification and user manual.
-IT IS RECOMMENDED THAT YOU DO NOT RUN GUI IN THIS VERSION OF THE CODE. After running make all or make clean all test, please select "0" for NO GUI. 
+After running make all or make clean all test.
+
+
 
 
 
