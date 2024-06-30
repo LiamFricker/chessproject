@@ -1,0 +1,113 @@
+Starting new game
+Starting new game
+Starting new game
+Move: D7D5
+Move: E2E4
+Move: C7C5
+Move: F2F4
+Move: F7F5
+Move: C2C4
+Move: E7E5
+Move: B2B4
+Move: A7A5
+Move: G2G3
+Move: F5E4
+Move: D2D4
+Move: E5D4
+Move: C4D5
+Move: C5B4
+Move: D5D6
+Move: E4E3
+Move: D6D7
+Move: E8D7
+Starting new game
+Move: C7C5
+Move: D2D4
+Move: C5D4
+Move: E2E4
+Move: D4D3
+Move: E4E5
+Move: D3D2
+Move: E1D2
+Move: D7D6
+Move: E5E6
+Move: D6D5
+Move: E6F7
+Move: E8F7
+Move: D2E1
+Move: D5D4
+Move: G2G3
+Move: H7H5
+Move: G3G4
+Move: H5H4
+Move: G4G5
+Move: F7E8
+Starting new game
+Move: F7F5
+Move: F2F4
+Starting new game
+Move: D7D5
+Move: D2D4
+Move: E7E5
+Move: E2E4
+Starting new game
+Starting new game
+Starting new game
+Starting new game
+Starting new game
+Starting new game
+Starting new game
+Move: A7A5
+Move: B2B4
+Move: B8C6
+Starting new game
+Move: C7C5
+Move: C2C4
+Starting new game
+Move: E7E5
+Move: E2E4
+Move: F7F5
+Move: E4F5
+Move: E5E4
+Move: F2F4
+Move: E4E3
+Starting new game
+Starting new game
+Move: D7D5
+Move: D5E4
+Starting new game
+Move: D7D5
+Move: E2E4
+Move: D5D4
+Move: C2C4
+Move: D4D3
+Starting new game
+Move: A7A5
+Move: B2B4
+Move: A5B4
+Move: C2C3
+Move: B4C3
+Move: D2D3
+Move: C3C2
+Move: D3D4
+Move: C2D1
+Move: E1D1
+Starting new game
+Move: D7D5
+Move: E7E5
+Move: E5F4
+Move: F4F3
+Move: F3F2
+Move: F2G1
+Move: G1F1
+Move: F1E1
+Starting new game
+Move: C2C4
+Move: E2E4
+Starting new game
+Move: E2E4
+Move: C7C5
+Move: C2C4
+Starting new game
+Starting new game
+Starting new game
